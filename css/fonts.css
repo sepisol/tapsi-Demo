@@ -1,0 +1,7 @@
+@font-face {
+    font-family:'Vazirmatn' ;
+    src: url(../Assets/font/Vazirmatn-RD-UI-Regular.woff2);
+}
+body{
+    font-family: 'Vazirmatn';
+}
